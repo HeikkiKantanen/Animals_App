@@ -4,7 +4,7 @@
 
 An application developed with React.js for the Full Stack Web Development program in Business College Helsinki.
 
-An react application that retrieves all the animals from a "local data file" and displays them in an alphabetical order.
+A React application that retrieves all the animals from a "local data file" and displays them in an alphabetical order.
 
 Using React-Router-DOM to navigate the links.
 
